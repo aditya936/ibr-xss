@@ -1,0 +1,31 @@
+POST /post.php HTTP/1.1
+Host: myproject234.rf.gd
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Content-Type: multipart/form-data; boundary=---------------------------22301720467932221193718237447
+Content-Length: 513
+Origin: http://myproject234.rf.gd
+Connection: keep-alive
+Referer: http://myproject234.rf.gd/post.php
+Cookie: __test=4ff88eda4cee49adebfe37dd36fffc60; username=admin; PHPSESSID=ea4cfda8d161c098b701719a880599aa
+Upgrade-Insecure-Requests: 1
+
+-----------------------------22301720467932221193718237447
+Content-Disposition: form-data; name="username"
+
+
+-----------------------------22301720467932221193718237447
+Content-Disposition: form-data; name="text"
+
+
+-----------------------------22301720467932221193718237447
+Content-Disposition: form-data; name="street"
+
+{payload}
+-----------------------------22301720467932221193718237447
+Content-Disposition: form-data; name="name"
+
+
+-----------------------------22301720467932221193718237447--
